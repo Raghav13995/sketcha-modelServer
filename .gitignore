@@ -1,0 +1,23 @@
+
+# Ignore virtual environment
+venv/
+env/
+ENV/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore version folders
+1.0.0
+1.21.0
+2.0.0
+
+# Ignore logs or outputs
+*.log
+*.out
+*.tmp
+
+# VSCode / PyCharm configs
+.vscode/
+.idea/
